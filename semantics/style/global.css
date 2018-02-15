@@ -1,0 +1,26 @@
+.lede {
+color: darkmagenta;
+font-weight:bold;
+}
+
+a:link { color:#E7701F; }
+a:visited { color:#E71F1F; }
+a:hover { color:#E11FE7; }
+a:active { color:#E7DB1F; }
+
+body { background-color: #EDE1BA; }
+
+img {
+    width: 100%;
+}
+.image {
+    width: 500em;
+}
+
+body {
+    line-height: 1.4;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+}
